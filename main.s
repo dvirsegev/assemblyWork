@@ -1,5 +1,5 @@
 # dvir segev 
-# 318651627
+
 	.section	.rodata	#read only data section
 getint: .string "%d"
 getstring: .string "%s\n"
